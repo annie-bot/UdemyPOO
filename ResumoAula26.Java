@@ -20,16 +20,16 @@ public class EntradaDeDados2 {
 		System.out.println(s2);
 		System.out.println(s3);
     
-		// Bom dia
-    // Boa tarde
-    // Boa noite
-    
-  // vai imprimir: 
+// Bom dia
+// Boa tarde
+// Boa noite
   
-    // DADOS DIGITADOS: 
-    // Bom dia
-    // Boa tarde
-    // Boa noite
+// vai imprimir: 
+  
+// DADOS DIGITADOS: 
+// Bom dia
+// Boa tarde
+// Boa noite
     
     
 		// Quebra de linha pendente
@@ -57,8 +57,7 @@ public class EntradaDeDados2 {
   // vai imprimir: 
   
     // DADOS DIGITADOS: 
-    // 29
-    
+    // 29    
     // Bom dia
     // Boa tarde
     // Boa noite
