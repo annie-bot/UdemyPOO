@@ -60,7 +60,8 @@ public class Exemplo4 {
 	resultado = a / b;
 	System.out.println(resultado);
 //vai imprimir 2.0 por que as variáveis são inteiras
-	
+
+//CASTING
 	int a1, b1;
 	double resultado1;
 	a1 = 5;
