@@ -1,15 +1,5 @@
-public class Main {
+import java.util.Locale;
 
-	public static void main(String[] args) {
-		//ln = quebra de linha
-		System.out.println("Hello World");
-		System.out.println("Bom dia");
-		// sem quebra de linha:
-		System.out.print("Hellow World");
-		System.out.print("Bom dia");
-	}
-
-}
 public class Exemplos {
 	public static void main(String[] args) {
 	//sintaxe: <tipo> <nome> = <valor inicial (opicional)>
@@ -33,6 +23,9 @@ System.out.println(sexo);
 System.out.println(x);
 // Para controlar as casas decimais:
 // quebra de linha nas casas decimais: %n
+System.out.printf("%.2f%n", x);
+// OBS> printf imprime com vírgula, para imprimir com ponto usar o comando: Locale.setDefault(Locale.US);
+Locale.setDefault(Locale.US);
 System.out.printf("%.2f%n", x);
 }
 }
