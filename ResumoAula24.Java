@@ -66,8 +66,21 @@ public class Exemplo4 {
 	a1 = 5;
 	b1 = 2;
 	// CASTING: converteu os inteiros em double ao adicionar (double) antes da expressão;
-  
-	resultado1 = (double) a1 / b1;
+  	resultado1 = (double) a1 / b1;
 	System.out.println(resultado1);
+// vai imrpimir 2.5 por que agora é DOUBLE
+		
+		public class Exemplo5 {
+	public static void main(String[] args) {
+		double a;
+		int b;
+		a = 5.0;
+		//sem o casting não irá rodar pois nao se converte double em int
+		b = (int)a;
+		System.out.println(b);
+		// vai imprimir 5 inteiro
+	}
+}
+
 }
 }
