@@ -6,4 +6,8 @@ Disciplina de Programação com o prof Nélio Alves <img src="https://media0.gip
  
  - [Estrutura Sequencial](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial)
     - [Conteúdo](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial/Conte%C3%BAdo)
-   - [Exercícios](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial/Exercicios)
+    - [Exercícios](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial/Exercicios)
+
+ - [Estrutura Condicional](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial)
+   - [Conteúdo](https://github.com/annie-bot/UdemyPOO/tree/main/Condicional/Conte%C3%BAdo)
+   - [Exercícios](https://github.com/annie-bot/UdemyPOO/tree/main/Condicional/Exerc%C3%ADcios)
