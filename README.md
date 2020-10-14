@@ -4,10 +4,10 @@ Disciplina de Programação com o prof Nélio Alves <img src="https://media0.gip
 
  ## <img src="https://media1.giphy.com/media/h3Wnqabhj1opOV8BnR/giphy.gif" width="20"> Sumário:
  
- - [Estrutura Sequencial](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial)
+ - [Estrutura Sequencial](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial) <img src="https://media1.giphy.com/media/h3Wnqabhj1opOV8BnR/giphy.gif" width="20">
     - [Conteúdo](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial/Conte%C3%BAdo)
     - [Exercícios](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial/Exercicios)
 
- - [Estrutura Condicional](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial)
+ - [Estrutura Condicional](https://github.com/annie-bot/UdemyPOO/tree/main/Sequencial) <img src="https://media1.giphy.com/media/h3Wnqabhj1opOV8BnR/giphy.gif" width="20">
    - [Conteúdo](https://github.com/annie-bot/UdemyPOO/tree/main/Condicional/Conte%C3%BAdo)
    - [Exercícios](https://github.com/annie-bot/UdemyPOO/tree/main/Condicional/Exerc%C3%ADcios)
