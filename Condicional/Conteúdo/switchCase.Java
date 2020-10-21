@@ -2,11 +2,21 @@
 //valor de uma variável, ao invés de várias estruturas if-else encadeadas,
 //alguns preferem utilizar a estrutura switch-case.
 
-//Estrutura: 
-  // switch (<variavel>){
-  // case <condição> :
-  // <comando>;
-  // break;
+//Sintaxe: 
+	//switch ( expressão ) {
+	//case valor1:
+	//comando1
+	//comando2
+		//break;
+	//case valor2:
+	//comando3
+	//comando4
+		//break;
+	//default (caso nenhum dos casos satisfaça, serve como um else):
+	//comando5
+	//comando6
+		//break;
+	//}
   
 //Exemplo:
 package Sequencial;
